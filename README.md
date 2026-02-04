@@ -1,3 +1,9 @@
+<H1>Overview</H1>
+
+A C++ program that creates and manipulates integer matrices. Users can fill the matrix manually or generate random values. The program calculates row- and column-wise statistics (average, count above/below average) using threads for concurrency. This was a student project exploring dynamic memory and multi-threading.
+
+<H1>Details</H1>
+
 This program demonstrates matrix creation, manipulation, and analysis using multi-threading in C++.
 
 - Dynamically allocates a matrix of integers.
